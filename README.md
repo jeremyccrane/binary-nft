@@ -3,7 +3,8 @@
 ## 01010 unique binary nft pieces 
 
 
-| # | ascii |
+| #      | ascii |
+| :---:        |    :----   |
 | 0000 | jeremy crane |
 | 0001 | defi degen |
 | 0002 | fud |
