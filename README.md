@@ -44,3 +44,15 @@
 | 0036 | addy |
 | 0037 | aes256 |
 | 0038 | airdrop |
+| 0039 | algorithm |
+| 0040 | altcoin |
+| 0041 | arbitrage |
+| 0042 | aping |
+| 0043 | atomic swap |
+| 0044 | nft |
+| 0045 | bag holder |
+| 0046 | bear trap |
+| 0047 | billion |
+| 0048 | bip |
+| 0049 | block height |
+| 0050 | gas fees suck |
