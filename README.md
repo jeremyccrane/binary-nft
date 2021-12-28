@@ -86,3 +86,23 @@
 | 0078 | freecoiner |
 | 0079 | crypto.com |
 | 0080 | fudster |
+| 0081 | gas |
+| 0082 | genesis block |
+| 0083 | gif |
+| 0084 | gwei |
+| 0085 | hard fork |
+| 0086 | hopium |
+| 0087 | immutable |
+| 0088 | jomo |
+| 0089 | key pairs |
+| 0090 | when lambo? |
+| 0091 | when moon? |
+| 0092 | liquidity mining |
+| 0093 | lp |
+| 0094 | medium |
+| 0095 | moon |
+| 0096 | nocoiner |
+| 0097 | mt gox |
+| 0098 | nonce |
+| 0099 | noob |
+| 0100 | orphan |
