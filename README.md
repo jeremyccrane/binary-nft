@@ -56,3 +56,33 @@
 | 0048 | bip |
 | 0049 | block height |
 | 0050 | gas fees suck |
+| 0051 | block reward |
+| 0052 | fork |
+| 0053 | cmc |
+| 0054 | coinbase |
+| 0055 | binance |
+| 0056 | ftx |
+| 0057 | metamask |
+| 0058 | pancake swap |
+| 0059 | consensus |
+| 0060 | cypherpunk |
+| 0061 | cz |
+| 0062 | time |
+| 0063 | dapp |
+| 0064 | dca |
+| 0065 | dead cat bounce |
+| 0066 | degen |
+| 0067 | dex |
+| 0068 | dip |
+| 0069 | discord |
+| 0070 | dyor |
+| 0071 | eip |
+| 0072 | erc-20 |
+| 0073 | ether |
+| 0074 | fanboy |
+| 0075 | fiat |
+| 0076 | flippening |
+| 0077 | lfg |
+| 0078 | freecoiner |
+| 0079 | crypto.com |
+| 0080 | fudster |
